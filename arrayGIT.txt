@@ -1,0 +1,1280 @@
+'user' =>
+    object(stdClass)[32]
+      public 'login' => string 'Cerynna' (length=7)
+      public 'id' => int 26279917
+      public 'avatar_url' => string 'https://avatars1.githubusercontent.com/u/26279917?v=4' (length=53)
+      public 'gravatar_id' => string '' (length=0)
+      public 'url' => string 'https://api.github.com/users/Cerynna' (length=36)
+      public 'html_url' => string 'https://github.com/Cerynna' (length=26)
+      public 'followers_url' => string 'https://api.github.com/users/Cerynna/followers' (length=46)
+      public 'following_url' => string 'https://api.github.com/users/Cerynna/following{/other_user}' (length=59)
+      public 'gists_url' => string 'https://api.github.com/users/Cerynna/gists{/gist_id}' (length=52)
+      public 'starred_url' => string 'https://api.github.com/users/Cerynna/starred{/owner}{/repo}' (length=59)
+      public 'subscriptions_url' => string 'https://api.github.com/users/Cerynna/subscriptions' (length=50)
+      public 'organizations_url' => string 'https://api.github.com/users/Cerynna/orgs' (length=41)
+      public 'repos_url' => string 'https://api.github.com/users/Cerynna/repos' (length=42)
+      public 'events_url' => string 'https://api.github.com/users/Cerynna/events{/privacy}' (length=53)
+      public 'received_events_url' => string 'https://api.github.com/users/Cerynna/received_events' (length=52)
+      public 'type' => string 'User' (length=4)
+      public 'site_admin' => boolean false
+      public 'name' => string 'Cerynna' (length=7)
+      public 'company' => null
+      public 'blog' => string '' (length=0)
+      public 'location' => null
+      public 'email' => null
+      public 'hireable' => null
+      public 'bio' => null
+      public 'public_repos' => int 15
+      public 'public_gists' => int 4
+      public 'followers' => int 2
+      public 'following' => int 2
+      public 'created_at' => string '2017-03-08T15:00:52Z' (length=20)
+      public 'updated_at' => string '2017-10-06T12:10:02Z' (length=20)
+      public 'private_gists' => int 0
+      public 'total_private_repos' => int 0
+      public 'owned_private_repos' => int 0
+      public 'disk_usage' => int 4466
+      public 'collaborators' => int 0
+      public 'two_factor_authentication' => boolean false
+      public 'plan' =>
+        object(stdClass)[30]
+          public 'name' => string 'free' (length=4)
+          public 'space' => int 976562499
+          public 'collaborators' => int 0
+          public 'private_repos' => int 0
+  'repos' =>
+    array (size=15)
+      0 =>
+        object(stdClass)[36]
+          public 'id' => int 105372867
+          public 'name' => string 'All-Quete' (length=9)
+          public 'full_name' => string 'Cerynna/All-Quete' (length=17)
+          public 'owner' =>
+            object(stdClass)[34]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/All-Quete' (length=36)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/All-Quete' (length=46)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/forks' (length=52)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/keys{/key_id}' (length=60)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/collaborators{/collaborator}' (length=75)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/teams' (length=52)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/hooks' (length=52)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/issues/events{/number}' (length=69)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/events' (length=53)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/assignees{/user}' (length=63)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/branches{/branch}' (length=64)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/tags' (length=51)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/git/blobs{/sha}' (length=62)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/git/tags{/sha}' (length=61)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/git/refs{/sha}' (length=61)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/git/trees{/sha}' (length=62)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/statuses/{sha}' (length=61)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/languages' (length=56)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/stargazers' (length=57)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/contributors' (length=59)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/subscribers' (length=58)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/subscription' (length=59)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/commits{/sha}' (length=60)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/git/commits{/sha}' (length=64)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/comments{/number}' (length=64)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/issues/comments{/number}' (length=71)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/contents/{+path}' (length=63)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/compare/{base}...{head}' (length=70)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/merges' (length=53)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/{archive_format}{/ref}' (length=69)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/downloads' (length=56)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/issues{/number}' (length=62)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/pulls{/number}' (length=61)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/milestones{/number}' (length=66)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/notifications{?since,all,participating}' (length=86)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/labels{/name}' (length=60)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/releases{/id}' (length=60)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/All-Quete/deployments' (length=58)
+          public 'created_at' => string '2017-09-30T13:47:50Z' (length=20)
+          public 'updated_at' => string '2017-09-30T13:50:12Z' (length=20)
+          public 'pushed_at' => string '2017-09-30T13:50:10Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/All-Quete.git' (length=38)
+          public 'ssh_url' => string 'git@github.com:Cerynna/All-Quete.git' (length=36)
+          public 'clone_url' => string 'https://github.com/Cerynna/All-Quete.git' (length=40)
+          public 'svn_url' => string 'https://github.com/Cerynna/All-Quete' (length=36)
+          public 'homepage' => null
+          public 'size' => int 389
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[26]
+              ...
+      1 =>
+        object(stdClass)[24]
+          public 'id' => int 103156126
+          public 'name' => string 'cornac' (length=6)
+          public 'full_name' => string 'Cerynna/cornac' (length=14)
+          public 'owner' =>
+            object(stdClass)[16]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/cornac' (length=33)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/cornac' (length=43)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/cornac/forks' (length=49)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/cornac/keys{/key_id}' (length=57)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/cornac/collaborators{/collaborator}' (length=72)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/cornac/teams' (length=49)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/cornac/hooks' (length=49)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/cornac/issues/events{/number}' (length=66)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/cornac/events' (length=50)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/cornac/assignees{/user}' (length=60)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/cornac/branches{/branch}' (length=61)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/cornac/tags' (length=48)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/cornac/git/blobs{/sha}' (length=59)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/cornac/git/tags{/sha}' (length=58)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/cornac/git/refs{/sha}' (length=58)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/cornac/git/trees{/sha}' (length=59)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/cornac/statuses/{sha}' (length=58)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/cornac/languages' (length=53)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/cornac/stargazers' (length=54)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/cornac/contributors' (length=56)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/cornac/subscribers' (length=55)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/cornac/subscription' (length=56)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/cornac/commits{/sha}' (length=57)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/cornac/git/commits{/sha}' (length=61)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/cornac/comments{/number}' (length=61)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/cornac/issues/comments{/number}' (length=68)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/cornac/contents/{+path}' (length=60)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/cornac/compare/{base}...{head}' (length=67)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/cornac/merges' (length=50)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/cornac/{archive_format}{/ref}' (length=66)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/cornac/downloads' (length=53)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/cornac/issues{/number}' (length=59)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/cornac/pulls{/number}' (length=58)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/cornac/milestones{/number}' (length=63)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/cornac/notifications{?since,all,participating}' (length=83)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/cornac/labels{/name}' (length=57)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/cornac/releases{/id}' (length=57)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/cornac/deployments' (length=55)
+          public 'created_at' => string '2017-09-11T15:51:12Z' (length=20)
+          public 'updated_at' => string '2017-09-11T16:15:30Z' (length=20)
+          public 'pushed_at' => string '2017-09-11T16:15:29Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/cornac.git' (length=35)
+          public 'ssh_url' => string 'git@github.com:Cerynna/cornac.git' (length=33)
+          public 'clone_url' => string 'https://github.com/Cerynna/cornac.git' (length=37)
+          public 'svn_url' => string 'https://github.com/Cerynna/cornac' (length=33)
+          public 'homepage' => null
+          public 'size' => int 1
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[19]
+              ...
+      2 =>
+        object(stdClass)[17]
+          public 'id' => int 104578402
+          public 'name' => string 'CRUD---POO---PHP' (length=16)
+          public 'full_name' => string 'Cerynna/CRUD---POO---PHP' (length=24)
+          public 'owner' =>
+            object(stdClass)[35]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/CRUD---POO---PHP' (length=43)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP' (length=53)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/forks' (length=59)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/keys{/key_id}' (length=67)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/collaborators{/collaborator}' (length=82)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/teams' (length=59)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/hooks' (length=59)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/issues/events{/number}' (length=76)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/events' (length=60)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/assignees{/user}' (length=70)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/branches{/branch}' (length=71)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/tags' (length=58)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/git/blobs{/sha}' (length=69)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/git/tags{/sha}' (length=68)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/git/refs{/sha}' (length=68)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/git/trees{/sha}' (length=69)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/statuses/{sha}' (length=68)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/languages' (length=63)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/stargazers' (length=64)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/contributors' (length=66)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/subscribers' (length=65)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/subscription' (length=66)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/commits{/sha}' (length=67)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/git/commits{/sha}' (length=71)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/comments{/number}' (length=71)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/issues/comments{/number}' (length=78)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/contents/{+path}' (length=70)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/compare/{base}...{head}' (length=77)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/merges' (length=60)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/{archive_format}{/ref}' (length=76)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/downloads' (length=63)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/issues{/number}' (length=69)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/pulls{/number}' (length=68)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/milestones{/number}' (length=73)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/notifications{?since,all,participating}' (length=93)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/labels{/name}' (length=67)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/releases{/id}' (length=67)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/CRUD---POO---PHP/deployments' (length=65)
+          public 'created_at' => string '2017-09-23T15:37:14Z' (length=20)
+          public 'updated_at' => string '2017-09-23T15:39:32Z' (length=20)
+          public 'pushed_at' => string '2017-09-23T15:43:48Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/CRUD---POO---PHP.git' (length=45)
+          public 'ssh_url' => string 'git@github.com:Cerynna/CRUD---POO---PHP.git' (length=43)
+          public 'clone_url' => string 'https://github.com/Cerynna/CRUD---POO---PHP.git' (length=47)
+          public 'svn_url' => string 'https://github.com/Cerynna/CRUD---POO---PHP' (length=43)
+          public 'homepage' => null
+          public 'size' => int 3
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[20]
+              ...
+      3 =>
+        object(stdClass)[37]
+          public 'id' => int 105752483
+          public 'name' => string 'Dashboard-LocalHost' (length=19)
+          public 'full_name' => string 'Cerynna/Dashboard-LocalHost' (length=27)
+          public 'owner' =>
+            object(stdClass)[38]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Dashboard-LocalHost' (length=46)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost' (length=56)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/forks' (length=62)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/keys{/key_id}' (length=70)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/collaborators{/collaborator}' (length=85)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/teams' (length=62)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/hooks' (length=62)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/issues/events{/number}' (length=79)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/events' (length=63)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/assignees{/user}' (length=73)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/branches{/branch}' (length=74)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/tags' (length=61)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/git/blobs{/sha}' (length=72)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/git/tags{/sha}' (length=71)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/git/refs{/sha}' (length=71)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/git/trees{/sha}' (length=72)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/statuses/{sha}' (length=71)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/languages' (length=66)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/stargazers' (length=67)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/contributors' (length=69)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/subscribers' (length=68)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/subscription' (length=69)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/commits{/sha}' (length=70)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/git/commits{/sha}' (length=74)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/comments{/number}' (length=74)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/issues/comments{/number}' (length=81)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/contents/{+path}' (length=73)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/compare/{base}...{head}' (length=80)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/merges' (length=63)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/{archive_format}{/ref}' (length=79)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/downloads' (length=66)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/issues{/number}' (length=72)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/pulls{/number}' (length=71)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/milestones{/number}' (length=76)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/notifications{?since,all,participating}' (length=96)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/labels{/name}' (length=70)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/releases{/id}' (length=70)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Dashboard-LocalHost/deployments' (length=68)
+          public 'created_at' => string '2017-10-04T09:41:31Z' (length=20)
+          public 'updated_at' => string '2017-10-04T09:45:46Z' (length=20)
+          public 'pushed_at' => string '2017-10-05T16:59:19Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Dashboard-LocalHost.git' (length=48)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Dashboard-LocalHost.git' (length=46)
+          public 'clone_url' => string 'https://github.com/Cerynna/Dashboard-LocalHost.git' (length=50)
+          public 'svn_url' => string 'https://github.com/Cerynna/Dashboard-LocalHost' (length=46)
+          public 'homepage' => null
+          public 'size' => int 369
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[39]
+              ...
+      4 =>
+        object(stdClass)[40]
+          public 'id' => int 103939149
+          public 'name' => string 'EyeSauron' (length=9)
+          public 'full_name' => string 'Cerynna/EyeSauron' (length=17)
+          public 'owner' =>
+            object(stdClass)[41]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/EyeSauron' (length=36)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/EyeSauron' (length=46)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/forks' (length=52)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/keys{/key_id}' (length=60)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/collaborators{/collaborator}' (length=75)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/teams' (length=52)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/hooks' (length=52)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/issues/events{/number}' (length=69)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/events' (length=53)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/assignees{/user}' (length=63)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/branches{/branch}' (length=64)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/tags' (length=51)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/git/blobs{/sha}' (length=62)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/git/tags{/sha}' (length=61)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/git/refs{/sha}' (length=61)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/git/trees{/sha}' (length=62)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/statuses/{sha}' (length=61)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/languages' (length=56)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/stargazers' (length=57)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/contributors' (length=59)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/subscribers' (length=58)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/subscription' (length=59)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/commits{/sha}' (length=60)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/git/commits{/sha}' (length=64)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/comments{/number}' (length=64)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/issues/comments{/number}' (length=71)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/contents/{+path}' (length=63)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/compare/{base}...{head}' (length=70)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/merges' (length=53)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/{archive_format}{/ref}' (length=69)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/downloads' (length=56)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/issues{/number}' (length=62)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/pulls{/number}' (length=61)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/milestones{/number}' (length=66)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/notifications{?since,all,participating}' (length=86)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/labels{/name}' (length=60)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/releases{/id}' (length=60)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/EyeSauron/deployments' (length=58)
+          public 'created_at' => string '2017-09-18T12:57:08Z' (length=20)
+          public 'updated_at' => string '2017-09-18T12:59:16Z' (length=20)
+          public 'pushed_at' => string '2017-09-18T12:59:15Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/EyeSauron.git' (length=38)
+          public 'ssh_url' => string 'git@github.com:Cerynna/EyeSauron.git' (length=36)
+          public 'clone_url' => string 'https://github.com/Cerynna/EyeSauron.git' (length=40)
+          public 'svn_url' => string 'https://github.com/Cerynna/EyeSauron' (length=36)
+          public 'homepage' => null
+          public 'size' => int 1
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[42]
+              ...
+      5 =>
+        object(stdClass)[43]
+          public 'id' => int 106695871
+          public 'name' => string 'Hackathon' (length=9)
+          public 'full_name' => string 'Cerynna/Hackathon' (length=17)
+          public 'owner' =>
+            object(stdClass)[44]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Hackathon' (length=36)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Hackathon' (length=46)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/forks' (length=52)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/keys{/key_id}' (length=60)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/collaborators{/collaborator}' (length=75)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/teams' (length=52)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/hooks' (length=52)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/issues/events{/number}' (length=69)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/events' (length=53)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/assignees{/user}' (length=63)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/branches{/branch}' (length=64)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/tags' (length=51)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/git/blobs{/sha}' (length=62)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/git/tags{/sha}' (length=61)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/git/refs{/sha}' (length=61)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/git/trees{/sha}' (length=62)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/statuses/{sha}' (length=61)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/languages' (length=56)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/stargazers' (length=57)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/contributors' (length=59)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/subscribers' (length=58)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/subscription' (length=59)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/commits{/sha}' (length=60)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/git/commits{/sha}' (length=64)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/comments{/number}' (length=64)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/issues/comments{/number}' (length=71)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/contents/{+path}' (length=63)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/compare/{base}...{head}' (length=70)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/merges' (length=53)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/{archive_format}{/ref}' (length=69)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/downloads' (length=56)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/issues{/number}' (length=62)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/pulls{/number}' (length=61)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/milestones{/number}' (length=66)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/notifications{?since,all,participating}' (length=86)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/labels{/name}' (length=60)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/releases{/id}' (length=60)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Hackathon/deployments' (length=58)
+          public 'created_at' => string '2017-10-12T13:22:57Z' (length=20)
+          public 'updated_at' => string '2017-10-12T13:23:59Z' (length=20)
+          public 'pushed_at' => string '2017-10-12T13:23:57Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Hackathon.git' (length=38)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Hackathon.git' (length=36)
+          public 'clone_url' => string 'https://github.com/Cerynna/Hackathon.git' (length=40)
+          public 'svn_url' => string 'https://github.com/Cerynna/Hackathon' (length=36)
+          public 'homepage' => null
+          public 'size' => int 180
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[45]
+              ...
+      6 =>
+        object(stdClass)[46]
+          public 'id' => int 103818550
+          public 'name' => string 'Hyst-Doc' (length=8)
+          public 'full_name' => string 'Cerynna/Hyst-Doc' (length=16)
+          public 'owner' =>
+            object(stdClass)[47]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Hyst-Doc' (length=35)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc' (length=45)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/forks' (length=51)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/keys{/key_id}' (length=59)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/collaborators{/collaborator}' (length=74)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/teams' (length=51)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/hooks' (length=51)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/issues/events{/number}' (length=68)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/events' (length=52)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/assignees{/user}' (length=62)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/branches{/branch}' (length=63)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/tags' (length=50)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/git/blobs{/sha}' (length=61)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/git/tags{/sha}' (length=60)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/git/refs{/sha}' (length=60)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/git/trees{/sha}' (length=61)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/statuses/{sha}' (length=60)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/languages' (length=55)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/stargazers' (length=56)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/contributors' (length=58)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/subscribers' (length=57)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/subscription' (length=58)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/commits{/sha}' (length=59)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/git/commits{/sha}' (length=63)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/comments{/number}' (length=63)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/issues/comments{/number}' (length=70)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/contents/{+path}' (length=62)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/compare/{base}...{head}' (length=69)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/merges' (length=52)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/{archive_format}{/ref}' (length=68)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/downloads' (length=55)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/issues{/number}' (length=61)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/pulls{/number}' (length=60)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/milestones{/number}' (length=65)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/notifications{?since,all,participating}' (length=85)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/labels{/name}' (length=59)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/releases{/id}' (length=59)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Hyst-Doc/deployments' (length=57)
+          public 'created_at' => string '2017-09-17T09:50:06Z' (length=20)
+          public 'updated_at' => string '2017-09-17T20:36:03Z' (length=20)
+          public 'pushed_at' => string '2017-10-10T21:01:58Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Hyst-Doc.git' (length=37)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Hyst-Doc.git' (length=35)
+          public 'clone_url' => string 'https://github.com/Cerynna/Hyst-Doc.git' (length=39)
+          public 'svn_url' => string 'https://github.com/Cerynna/Hyst-Doc' (length=35)
+          public 'homepage' => null
+          public 'size' => int 373
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'JavaScript' (length=10)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean true
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'dev' (length=3)
+          public 'permissions' =>
+            object(stdClass)[48]
+              ...
+      7 =>
+        object(stdClass)[49]
+          public 'id' => int 104401187
+          public 'name' => string 'Lyon-project1-FPJ' (length=17)
+          public 'full_name' => string 'Cerynna/Lyon-project1-FPJ' (length=25)
+          public 'owner' =>
+            object(stdClass)[50]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Lyon-project1-FPJ' (length=44)
+          public 'description' => null
+          public 'fork' => boolean true
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ' (length=54)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/forks' (length=60)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/keys{/key_id}' (length=68)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/collaborators{/collaborator}' (length=83)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/teams' (length=60)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/hooks' (length=60)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/issues/events{/number}' (length=77)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/events' (length=61)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/assignees{/user}' (length=71)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/branches{/branch}' (length=72)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/tags' (length=59)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/git/blobs{/sha}' (length=70)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/git/tags{/sha}' (length=69)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/git/refs{/sha}' (length=69)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/git/trees{/sha}' (length=70)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/statuses/{sha}' (length=69)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/languages' (length=64)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/stargazers' (length=65)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/contributors' (length=67)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/subscribers' (length=66)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/subscription' (length=67)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/commits{/sha}' (length=68)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/git/commits{/sha}' (length=72)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/comments{/number}' (length=72)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/issues/comments{/number}' (length=79)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/contents/{+path}' (length=71)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/compare/{base}...{head}' (length=78)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/merges' (length=61)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/{archive_format}{/ref}' (length=77)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/downloads' (length=64)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/issues{/number}' (length=70)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/pulls{/number}' (length=69)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/milestones{/number}' (length=74)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/notifications{?since,all,participating}' (length=94)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/labels{/name}' (length=68)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/releases{/id}' (length=68)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Lyon-project1-FPJ/deployments' (length=66)
+          public 'created_at' => string '2017-09-21T21:34:08Z' (length=20)
+          public 'updated_at' => string '2017-09-21T21:34:11Z' (length=20)
+          public 'pushed_at' => string '2017-09-21T21:28:19Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Lyon-project1-FPJ.git' (length=46)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Lyon-project1-FPJ.git' (length=44)
+          public 'clone_url' => string 'https://github.com/Cerynna/Lyon-project1-FPJ.git' (length=48)
+          public 'svn_url' => string 'https://github.com/Cerynna/Lyon-project1-FPJ' (length=44)
+          public 'homepage' => null
+          public 'size' => int 7628
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean false
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[51]
+              ...
+      8 =>
+        object(stdClass)[52]
+          public 'id' => int 104938363
+          public 'name' => string 'Quete---BackToFuture' (length=20)
+          public 'full_name' => string 'Cerynna/Quete---BackToFuture' (length=28)
+          public 'owner' =>
+            object(stdClass)[53]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Quete---BackToFuture' (length=47)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture' (length=57)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/forks' (length=63)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/keys{/key_id}' (length=71)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/collaborators{/collaborator}' (length=86)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/teams' (length=63)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/hooks' (length=63)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/issues/events{/number}' (length=80)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/events' (length=64)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/assignees{/user}' (length=74)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/branches{/branch}' (length=75)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/tags' (length=62)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/git/blobs{/sha}' (length=73)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/git/tags{/sha}' (length=72)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/git/refs{/sha}' (length=72)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/git/trees{/sha}' (length=73)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/statuses/{sha}' (length=72)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/languages' (length=67)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/stargazers' (length=68)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/contributors' (length=70)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/subscribers' (length=69)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/subscription' (length=70)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/commits{/sha}' (length=71)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/git/commits{/sha}' (length=75)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/comments{/number}' (length=75)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/issues/comments{/number}' (length=82)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/contents/{+path}' (length=74)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/compare/{base}...{head}' (length=81)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/merges' (length=64)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/{archive_format}{/ref}' (length=80)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/downloads' (length=67)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/issues{/number}' (length=73)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/pulls{/number}' (length=72)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/milestones{/number}' (length=77)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/notifications{?since,all,participating}' (length=97)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/labels{/name}' (length=71)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/releases{/id}' (length=71)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Quete---BackToFuture/deployments' (length=69)
+          public 'created_at' => string '2017-09-26T21:13:33Z' (length=20)
+          public 'updated_at' => string '2017-09-26T21:16:13Z' (length=20)
+          public 'pushed_at' => string '2017-09-27T15:04:47Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Quete---BackToFuture.git' (length=49)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Quete---BackToFuture.git' (length=47)
+          public 'clone_url' => string 'https://github.com/Cerynna/Quete---BackToFuture.git' (length=51)
+          public 'svn_url' => string 'https://github.com/Cerynna/Quete---BackToFuture' (length=47)
+          public 'homepage' => null
+          public 'size' => int 3
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[54]
+              ...
+      9 =>
+        object(stdClass)[55]
+          public 'id' => int 106111440
+          public 'name' => string 'Quete---COOKIES' (length=15)
+          public 'full_name' => string 'Cerynna/Quete---COOKIES' (length=23)
+          public 'owner' =>
+            object(stdClass)[56]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Quete---COOKIES' (length=42)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES' (length=52)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/forks' (length=58)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/keys{/key_id}' (length=66)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/collaborators{/collaborator}' (length=81)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/teams' (length=58)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/hooks' (length=58)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/issues/events{/number}' (length=75)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/events' (length=59)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/assignees{/user}' (length=69)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/branches{/branch}' (length=70)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/tags' (length=57)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/git/blobs{/sha}' (length=68)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/git/tags{/sha}' (length=67)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/git/refs{/sha}' (length=67)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/git/trees{/sha}' (length=68)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/statuses/{sha}' (length=67)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/languages' (length=62)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/stargazers' (length=63)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/contributors' (length=65)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/subscribers' (length=64)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/subscription' (length=65)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/commits{/sha}' (length=66)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/git/commits{/sha}' (length=70)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/comments{/number}' (length=70)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/issues/comments{/number}' (length=77)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/contents/{+path}' (length=69)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/compare/{base}...{head}' (length=76)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/merges' (length=59)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/{archive_format}{/ref}' (length=75)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/downloads' (length=62)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/issues{/number}' (length=68)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/pulls{/number}' (length=67)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/milestones{/number}' (length=72)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/notifications{?since,all,participating}' (length=92)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/labels{/name}' (length=66)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/releases{/id}' (length=66)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Quete---COOKIES/deployments' (length=64)
+          public 'created_at' => string '2017-10-07T16:09:31Z' (length=20)
+          public 'updated_at' => string '2017-10-07T16:11:09Z' (length=20)
+          public 'pushed_at' => string '2017-10-07T16:11:07Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Quete---COOKIES.git' (length=44)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Quete---COOKIES.git' (length=42)
+          public 'clone_url' => string 'https://github.com/Cerynna/Quete---COOKIES.git' (length=46)
+          public 'svn_url' => string 'https://github.com/Cerynna/Quete---COOKIES' (length=42)
+          public 'homepage' => null
+          public 'size' => int 872
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[57]
+              ...
+      10 =>
+        object(stdClass)[58]
+          public 'id' => int 106432964
+          public 'name' => string 'Quete---FILES' (length=13)
+          public 'full_name' => string 'Cerynna/Quete---FILES' (length=21)
+          public 'owner' =>
+            object(stdClass)[59]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Quete---FILES' (length=40)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES' (length=50)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/forks' (length=56)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/keys{/key_id}' (length=64)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/collaborators{/collaborator}' (length=79)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/teams' (length=56)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/hooks' (length=56)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/issues/events{/number}' (length=73)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/events' (length=57)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/assignees{/user}' (length=67)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/branches{/branch}' (length=68)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/tags' (length=55)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/git/blobs{/sha}' (length=66)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/git/tags{/sha}' (length=65)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/git/refs{/sha}' (length=65)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/git/trees{/sha}' (length=66)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/statuses/{sha}' (length=65)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/languages' (length=60)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/stargazers' (length=61)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/contributors' (length=63)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/subscribers' (length=62)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/subscription' (length=63)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/commits{/sha}' (length=64)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/git/commits{/sha}' (length=68)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/comments{/number}' (length=68)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/issues/comments{/number}' (length=75)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/contents/{+path}' (length=67)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/compare/{base}...{head}' (length=74)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/merges' (length=57)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/{archive_format}{/ref}' (length=73)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/downloads' (length=60)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/issues{/number}' (length=66)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/pulls{/number}' (length=65)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/milestones{/number}' (length=70)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/notifications{?since,all,participating}' (length=90)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/labels{/name}' (length=64)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/releases{/id}' (length=64)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Quete---FILES/deployments' (length=62)
+          public 'created_at' => string '2017-10-10T15:05:52Z' (length=20)
+          public 'updated_at' => string '2017-10-10T15:07:47Z' (length=20)
+          public 'pushed_at' => string '2017-10-10T15:07:45Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Quete---FILES.git' (length=42)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Quete---FILES.git' (length=40)
+          public 'clone_url' => string 'https://github.com/Cerynna/Quete---FILES.git' (length=44)
+          public 'svn_url' => string 'https://github.com/Cerynna/Quete---FILES' (length=40)
+          public 'homepage' => null
+          public 'size' => int 3
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[60]
+              ...
+      11 =>
+        object(stdClass)[61]
+          public 'id' => int 103381870
+          public 'name' => string 'Quete-Formulaire' (length=16)
+          public 'full_name' => string 'Cerynna/Quete-Formulaire' (length=24)
+          public 'owner' =>
+            object(stdClass)[62]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Quete-Formulaire' (length=43)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire' (length=53)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/forks' (length=59)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/keys{/key_id}' (length=67)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/collaborators{/collaborator}' (length=82)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/teams' (length=59)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/hooks' (length=59)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/issues/events{/number}' (length=76)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/events' (length=60)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/assignees{/user}' (length=70)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/branches{/branch}' (length=71)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/tags' (length=58)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/git/blobs{/sha}' (length=69)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/git/tags{/sha}' (length=68)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/git/refs{/sha}' (length=68)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/git/trees{/sha}' (length=69)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/statuses/{sha}' (length=68)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/languages' (length=63)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/stargazers' (length=64)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/contributors' (length=66)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/subscribers' (length=65)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/subscription' (length=66)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/commits{/sha}' (length=67)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/git/commits{/sha}' (length=71)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/comments{/number}' (length=71)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/issues/comments{/number}' (length=78)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/contents/{+path}' (length=70)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/compare/{base}...{head}' (length=77)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/merges' (length=60)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/{archive_format}{/ref}' (length=76)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/downloads' (length=63)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/issues{/number}' (length=69)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/pulls{/number}' (length=68)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/milestones{/number}' (length=73)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/notifications{?since,all,participating}' (length=93)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/labels{/name}' (length=67)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/releases{/id}' (length=67)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Quete-Formulaire/deployments' (length=65)
+          public 'created_at' => string '2017-09-13T09:42:04Z' (length=20)
+          public 'updated_at' => string '2017-09-13T09:44:12Z' (length=20)
+          public 'pushed_at' => string '2017-09-13T10:58:43Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Quete-Formulaire.git' (length=45)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Quete-Formulaire.git' (length=43)
+          public 'clone_url' => string 'https://github.com/Cerynna/Quete-Formulaire.git' (length=47)
+          public 'svn_url' => string 'https://github.com/Cerynna/Quete-Formulaire' (length=43)
+          public 'homepage' => null
+          public 'size' => int 6
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[63]
+              ...
+      12 =>
+        object(stdClass)[64]
+          public 'id' => int 103394657
+          public 'name' => string 'Quete-Gandalf' (length=13)
+          public 'full_name' => string 'Cerynna/Quete-Gandalf' (length=21)
+          public 'owner' =>
+            object(stdClass)[65]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Quete-Gandalf' (length=40)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf' (length=50)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/forks' (length=56)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/keys{/key_id}' (length=64)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/collaborators{/collaborator}' (length=79)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/teams' (length=56)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/hooks' (length=56)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/issues/events{/number}' (length=73)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/events' (length=57)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/assignees{/user}' (length=67)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/branches{/branch}' (length=68)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/tags' (length=55)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/git/blobs{/sha}' (length=66)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/git/tags{/sha}' (length=65)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/git/refs{/sha}' (length=65)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/git/trees{/sha}' (length=66)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/statuses/{sha}' (length=65)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/languages' (length=60)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/stargazers' (length=61)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/contributors' (length=63)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/subscribers' (length=62)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/subscription' (length=63)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/commits{/sha}' (length=64)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/git/commits{/sha}' (length=68)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/comments{/number}' (length=68)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/issues/comments{/number}' (length=75)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/contents/{+path}' (length=67)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/compare/{base}...{head}' (length=74)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/merges' (length=57)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/{archive_format}{/ref}' (length=73)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/downloads' (length=60)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/issues{/number}' (length=66)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/pulls{/number}' (length=65)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/milestones{/number}' (length=70)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/notifications{?since,all,participating}' (length=90)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/labels{/name}' (length=64)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/releases{/id}' (length=64)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Quete-Gandalf/deployments' (length=62)
+          public 'created_at' => string '2017-09-13T12:04:39Z' (length=20)
+          public 'updated_at' => string '2017-09-13T12:05:53Z' (length=20)
+          public 'pushed_at' => string '2017-09-13T12:05:52Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Quete-Gandalf.git' (length=42)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Quete-Gandalf.git' (length=40)
+          public 'clone_url' => string 'https://github.com/Cerynna/Quete-Gandalf.git' (length=44)
+          public 'svn_url' => string 'https://github.com/Cerynna/Quete-Gandalf' (length=40)
+          public 'homepage' => null
+          public 'size' => int 386
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'CSS' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[66]
+              ...
+      13 =>
+        object(stdClass)[67]
+          public 'id' => int 103149158
+          public 'name' => string 'quete-GIT' (length=9)
+          public 'full_name' => string 'Cerynna/quete-GIT' (length=17)
+          public 'owner' =>
+            object(stdClass)[68]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/quete-GIT' (length=36)
+          public 'description' => null
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/quete-GIT' (length=46)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/forks' (length=52)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/keys{/key_id}' (length=60)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/collaborators{/collaborator}' (length=75)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/teams' (length=52)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/hooks' (length=52)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/issues/events{/number}' (length=69)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/events' (length=53)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/assignees{/user}' (length=63)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/branches{/branch}' (length=64)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/tags' (length=51)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/git/blobs{/sha}' (length=62)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/git/tags{/sha}' (length=61)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/git/refs{/sha}' (length=61)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/git/trees{/sha}' (length=62)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/statuses/{sha}' (length=61)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/languages' (length=56)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/stargazers' (length=57)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/contributors' (length=59)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/subscribers' (length=58)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/subscription' (length=59)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/commits{/sha}' (length=60)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/git/commits{/sha}' (length=64)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/comments{/number}' (length=64)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/issues/comments{/number}' (length=71)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/contents/{+path}' (length=63)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/compare/{base}...{head}' (length=70)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/merges' (length=53)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/{archive_format}{/ref}' (length=69)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/downloads' (length=56)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/issues{/number}' (length=62)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/pulls{/number}' (length=61)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/milestones{/number}' (length=66)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/notifications{?since,all,participating}' (length=86)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/labels{/name}' (length=60)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/releases{/id}' (length=60)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/quete-GIT/deployments' (length=58)
+          public 'created_at' => string '2017-09-11T14:53:14Z' (length=20)
+          public 'updated_at' => string '2017-09-11T14:59:08Z' (length=20)
+          public 'pushed_at' => string '2017-09-11T15:07:31Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/quete-GIT.git' (length=38)
+          public 'ssh_url' => string 'git@github.com:Cerynna/quete-GIT.git' (length=36)
+          public 'clone_url' => string 'https://github.com/Cerynna/quete-GIT.git' (length=40)
+          public 'svn_url' => string 'https://github.com/Cerynna/quete-GIT' (length=36)
+          public 'homepage' => null
+          public 'size' => int 0
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'PHP' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[69]
+              ...
+      14 =>
+        object(stdClass)[70]
+          public 'id' => int 84507835
+          public 'name' => string 'Wild-Circus' (length=11)
+          public 'full_name' => string 'Cerynna/Wild-Circus' (length=19)
+          public 'owner' =>
+            object(stdClass)[71]
+              ...
+          public 'private' => boolean false
+          public 'html_url' => string 'https://github.com/Cerynna/Wild-Circus' (length=38)
+          public 'description' => string 'Challenge Wild circus' (length=21)
+          public 'fork' => boolean false
+          public 'url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus' (length=48)
+          public 'forks_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/forks' (length=54)
+          public 'keys_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/keys{/key_id}' (length=62)
+          public 'collaborators_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/collaborators{/collaborator}' (length=77)
+          public 'teams_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/teams' (length=54)
+          public 'hooks_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/hooks' (length=54)
+          public 'issue_events_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/issues/events{/number}' (length=71)
+          public 'events_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/events' (length=55)
+          public 'assignees_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/assignees{/user}' (length=65)
+          public 'branches_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/branches{/branch}' (length=66)
+          public 'tags_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/tags' (length=53)
+          public 'blobs_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/git/blobs{/sha}' (length=64)
+          public 'git_tags_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/git/tags{/sha}' (length=63)
+          public 'git_refs_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/git/refs{/sha}' (length=63)
+          public 'trees_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/git/trees{/sha}' (length=64)
+          public 'statuses_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/statuses/{sha}' (length=63)
+          public 'languages_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/languages' (length=58)
+          public 'stargazers_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/stargazers' (length=59)
+          public 'contributors_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/contributors' (length=61)
+          public 'subscribers_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/subscribers' (length=60)
+          public 'subscription_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/subscription' (length=61)
+          public 'commits_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/commits{/sha}' (length=62)
+          public 'git_commits_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/git/commits{/sha}' (length=66)
+          public 'comments_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/comments{/number}' (length=66)
+          public 'issue_comment_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/issues/comments{/number}' (length=73)
+          public 'contents_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/contents/{+path}' (length=65)
+          public 'compare_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/compare/{base}...{head}' (length=72)
+          public 'merges_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/merges' (length=55)
+          public 'archive_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/{archive_format}{/ref}' (length=71)
+          public 'downloads_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/downloads' (length=58)
+          public 'issues_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/issues{/number}' (length=64)
+          public 'pulls_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/pulls{/number}' (length=63)
+          public 'milestones_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/milestones{/number}' (length=68)
+          public 'notifications_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/notifications{?since,all,participating}' (length=88)
+          public 'labels_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/labels{/name}' (length=62)
+          public 'releases_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/releases{/id}' (length=62)
+          public 'deployments_url' => string 'https://api.github.com/repos/Cerynna/Wild-Circus/deployments' (length=60)
+          public 'created_at' => string '2017-03-10T01:55:08Z' (length=20)
+          public 'updated_at' => string '2017-03-10T02:16:39Z' (length=20)
+          public 'pushed_at' => string '2017-06-17T17:37:45Z' (length=20)
+          public 'git_url' => string 'git://github.com/Cerynna/Wild-Circus.git' (length=40)
+          public 'ssh_url' => string 'git@github.com:Cerynna/Wild-Circus.git' (length=38)
+          public 'clone_url' => string 'https://github.com/Cerynna/Wild-Circus.git' (length=42)
+          public 'svn_url' => string 'https://github.com/Cerynna/Wild-Circus' (length=38)
+          public 'homepage' => string 'http://fake-wow.fr/circus/' (length=26)
+          public 'size' => int 1880
+          public 'stargazers_count' => int 0
+          public 'watchers_count' => int 0
+          public 'language' => string 'CSS' (length=3)
+          public 'has_issues' => boolean true
+          public 'has_projects' => boolean true
+          public 'has_downloads' => boolean true
+          public 'has_wiki' => boolean true
+          public 'has_pages' => boolean false
+          public 'forks_count' => int 0
+          public 'mirror_url' => null
+          public 'open_issues_count' => int 0
+          public 'forks' => int 0
+          public 'open_issues' => int 0
+          public 'watchers' => int 0
+          public 'default_branch' => string 'master' (length=6)
+          public 'permissions' =>
+            object(stdClass)[72]
+              ...
+  'gists' =>
+    array (size=4)
+      0 =>
+        object(stdClass)[83]
+          public 'url' => string 'https://api.github.com/gists/d10cc229698e74015fe234adaea5f427' (length=61)
+          public 'forks_url' => string 'https://api.github.com/gists/d10cc229698e74015fe234adaea5f427/forks' (length=67)
+          public 'commits_url' => string 'https://api.github.com/gists/d10cc229698e74015fe234adaea5f427/commits' (length=69)
+          public 'id' => string 'd10cc229698e74015fe234adaea5f427' (length=32)
+          public 'git_pull_url' => string 'https://gist.github.com/d10cc229698e74015fe234adaea5f427.git' (length=60)
+          public 'git_push_url' => string 'https://gist.github.com/d10cc229698e74015fe234adaea5f427.git' (length=60)
+          public 'html_url' => string 'https://gist.github.com/d10cc229698e74015fe234adaea5f427' (length=56)
+          public 'files' =>
+            object(stdClass)[74]
+              ...
+          public 'public' => boolean true
+          public 'created_at' => string '2017-10-09T11:06:43Z' (length=20)
+          public 'updated_at' => string '2017-10-09T11:06:43Z' (length=20)
+          public 'description' => string '' (length=0)
+          public 'comments' => int 0
+          public 'user' => null
+          public 'comments_url' => string 'https://api.github.com/gists/d10cc229698e74015fe234adaea5f427/comments' (length=70)
+          public 'owner' =>
+            object(stdClass)[79]
+              ...
+          public 'truncated' => boolean false
+      1 =>
+        object(stdClass)[77]
+          public 'url' => string 'https://api.github.com/gists/a50b5c4274ee73d6b082e66ca42b5de1' (length=61)
+          public 'forks_url' => string 'https://api.github.com/gists/a50b5c4274ee73d6b082e66ca42b5de1/forks' (length=67)
+          public 'commits_url' => string 'https://api.github.com/gists/a50b5c4274ee73d6b082e66ca42b5de1/commits' (length=69)
+          public 'id' => string 'a50b5c4274ee73d6b082e66ca42b5de1' (length=32)
+          public 'git_pull_url' => string 'https://gist.github.com/a50b5c4274ee73d6b082e66ca42b5de1.git' (length=60)
+          public 'git_push_url' => string 'https://gist.github.com/a50b5c4274ee73d6b082e66ca42b5de1.git' (length=60)
+          public 'html_url' => string 'https://gist.github.com/a50b5c4274ee73d6b082e66ca42b5de1' (length=56)
+          public 'files' =>
+            object(stdClass)[73]
+              ...
+          public 'public' => boolean true
+          public 'created_at' => string '2017-10-02T11:59:39Z' (length=20)
+          public 'updated_at' => string '2017-10-02T11:59:39Z' (length=20)
+          public 'description' => string '' (length=0)
+          public 'comments' => int 0
+          public 'user' => null
+          public 'comments_url' => string 'https://api.github.com/gists/a50b5c4274ee73d6b082e66ca42b5de1/comments' (length=70)
+          public 'owner' =>
+            object(stdClass)[82]
+              ...
+          public 'truncated' => boolean false
+      2 =>
+        object(stdClass)[75]
+          public 'url' => string 'https://api.github.com/gists/9a6949c4f0e9607202cee3f71f3e8325' (length=61)
+          public 'forks_url' => string 'https://api.github.com/gists/9a6949c4f0e9607202cee3f71f3e8325/forks' (length=67)
+          public 'commits_url' => string 'https://api.github.com/gists/9a6949c4f0e9607202cee3f71f3e8325/commits' (length=69)
+          public 'id' => string '9a6949c4f0e9607202cee3f71f3e8325' (length=32)
+          public 'git_pull_url' => string 'https://gist.github.com/9a6949c4f0e9607202cee3f71f3e8325.git' (length=60)
+          public 'git_push_url' => string 'https://gist.github.com/9a6949c4f0e9607202cee3f71f3e8325.git' (length=60)
+          public 'html_url' => string 'https://gist.github.com/9a6949c4f0e9607202cee3f71f3e8325' (length=56)
+          public 'files' =>
+            object(stdClass)[85]
+              ...
+          public 'public' => boolean true
+          public 'created_at' => string '2017-09-18T15:45:44Z' (length=20)
+          public 'updated_at' => string '2017-09-19T14:40:50Z' (length=20)
+          public 'description' => string 'QUETE SQL CREATE DATABASE' (length=25)
+          public 'comments' => int 0
+          public 'user' => null
+          public 'comments_url' => string 'https://api.github.com/gists/9a6949c4f0e9607202cee3f71f3e8325/comments' (length=70)
+          public 'owner' =>
+            object(stdClass)[86]
+              ...
+          public 'truncated' => boolean false
+      3 =>
+        object(stdClass)[87]
+          public 'url' => string 'https://api.github.com/gists/883b1f51cb9d68b9191de19beeb140dd' (length=61)
+          public 'forks_url' => string 'https://api.github.com/gists/883b1f51cb9d68b9191de19beeb140dd/forks' (length=67)
+          public 'commits_url' => string 'https://api.github.com/gists/883b1f51cb9d68b9191de19beeb140dd/commits' (length=69)
+          public 'id' => string '883b1f51cb9d68b9191de19beeb140dd' (length=32)
+          public 'git_pull_url' => string 'https://gist.github.com/883b1f51cb9d68b9191de19beeb140dd.git' (length=60)
+          public 'git_push_url' => string 'https://gist.github.com/883b1f51cb9d68b9191de19beeb140dd.git' (length=60)
+          public 'html_url' => string 'https://gist.github.com/883b1f51cb9d68b9191de19beeb140dd' (length=56)
+          public 'files' =>
+            object(stdClass)[89]
+              ...
+          public 'public' => boolean true
+          public 'created_at' => string '2017-09-18T15:05:23Z' (length=20)
+          public 'updated_at' => string '2017-09-22T15:19:31Z' (length=20)
+          public 'description' => string 'Quete - PHP OBJET' (length=17)
+          public 'comments' => int 0
+          public 'user' => null
+          public 'comments_url' => string 'https://api.github.com/gists/883b1f51cb9d68b9191de19beeb140dd/comments' (length=70)
+          public 'owner' =>
+            object(stdClass)[90]
+              ...
+          public 'truncated' => boolean false

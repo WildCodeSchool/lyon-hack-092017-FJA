@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:400,700");
+.containerHome {
+  max-width: 100vw;
+  height: 100vh; }
+
+.card {
+  width: 90vw;
+  margin: auto;
+  position: relative;
+  top: 50vh;
+  transform: translatey(-50%);
+  padding: 20px 10px;
+  background: rgba(211, 211, 211, 0.95); }
+
+.app {
+  width: 350px;
+  padding: 20px 20px;
+  background-color: rgba(211, 211, 211, 0.7);
+  border-radius: 10px;
+  margin: auto;
+  top: 50vh;
+  transform: translatey(-50%);
+  position: relative; }
+  .app .appHeader {
+    display: flex;
+    justify-content: space-around;
+    padding: 15px 10px; }
+    .app .appHeader .userName {
+      margin-top: 30px;
+      color: black;
+      font-size: 2em;
+      font-family: 'Roboto', sans-serif;
+      height: 100%; }
+  .app .appFollow {
+    padding: 10px 5px; }
+  .app .appRepos .countCreate {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px; }
+  .app .deposApp {
+    padding: 10px 25px; }
+    .app .deposApp span {
+      font-size: 1.3em;
+      font-weight: bold; }
+    .app .deposApp ul {
+      text-align: left;
+      padding-left: 25px;
+      font-size: 1.2em; }
+
+.modal-header {
+  padding: 20px 0 5px 10px;
+  display: flex;
+  justify-content: space-between; }
+  .modal-header .following {
+    text-shadow: 0 2px 2px black; }
+
+.modal.bottom-sheet {
+  min-height: 80%; }
+
+.tab {
+  border: 1px solid lightgrey;
+  font-size: 2em; }
+
+.slideDetails {
+  padding: 50px 15px;
+  background-color: ghostwhite;
+  border: 1px solid lightgrey; }
+
+.collapsible li {
+  margin: 20px 0; }
+.collapsible .collapsible-header {
+  display: flex;
+  justify-content: space-between; }
+  .collapsible .collapsible-header:hover {
+    background-color: #grey; }
+.collapsible .collapsible-footer {
+  padding: 10px 30px; }
+  .collapsible .collapsible-footer span {
+    margin-left: 50px; }
+
+/* Just to play with animations */
+.copiedtext {
+  position: absolute;
+  left: 0;
+  top: 0;
+  right: 0;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(-1em);
+  color: #000;
+  transition: all .500s; }
+
+.copied .copiedtext {
+  opacity: 1;
+  transform: translateY(-2em); }
+.centerApp {
+    margin: auto;
+    position: relative;
+    top: 50vh;
+    transform: translatey(-50%);
+
+}
+
+.centerApp {
+  position: relative;
+  top: 50vh;
+  transform: translatey(-50%); }
+
+input[type="range"] {
+  border: none; }
+
+/*# sourceMappingURL=main.css.map */

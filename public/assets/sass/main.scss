@@ -1,0 +1,151 @@
+// Import google fonts
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
+
+// Variables
+$choiceColorJs: lightgrey;
+$secondChoiceColorJs: lighblue;
+
+// Container App
+.containerHome {
+  max-width: 100vw;
+  height: 100vh;
+}
+
+// Container Form
+.card {
+  width: 90vw;
+  margin: auto;
+  position: relative;
+  top: 50vh;
+  transform: translatey(-50%);
+  padding: 20px 10px;
+  background: rgba($choiceColorJs, 0.95);
+}
+
+// The div app
+.app {
+  width: 350px;
+  padding: 20px 20px;
+  background-color: rgba($choiceColorJs, 0.7);
+  border-radius: 10px;
+  margin: auto;
+  top: 50vh;
+  transform: translatey(-50%);
+  position: relative;
+    // header div
+    .appHeader {
+      display: flex;
+      justify-content: space-around;
+      padding: 15px 10px;
+      // title div
+      .userName {
+        margin-top: 30px;
+        color: black;
+        font-size: 2em;
+        font-family: 'Roboto', sans-serif;
+        height: 100%;
+      }
+    }
+    // Followers and following github
+    .appFollow {
+      padding: 10px 5px;
+    }
+    // Depos github
+    .appRepos {
+      .countCreate {
+        display: flex;
+        justify-content: space-around;
+        padding: 10px;
+      }
+    }
+    // container 3 most recent depos
+    .deposApp {
+      padding: 10px 25px;
+      span {
+        font-size: 1.3em;
+        font-weight: bold;
+      }
+      ul {
+        text-align: left;
+        padding-left: 25px;
+        font-size: 1.2em;
+      }
+    }
+}
+
+// Modal for details
+.modal-header {
+  padding: 20px 0 5px 10px;
+  display: flex;
+  justify-content: space-between;
+  .following {
+    text-shadow: 0 2px 2px black;
+  }
+}
+// Modal fixed bottom for details
+.modal.bottom-sheet {
+  min-height: 80%;
+}
+// Tabs who contains the datas of repo
+.tab {
+  border: 1px solid lightgrey;
+  font-size: 2em;
+}
+// Containers sliders tabs
+.slideDetails {
+  padding: 50px 15px;
+  background-color: ghostwhite;
+  border: 1px solid lightgrey;
+}
+
+// Collapsible for details of depos
+.collapsible {
+  li {
+    margin: 20px 0;
+  }
+  //header of Collapse
+  .collapsible-header {
+    display: flex;
+    justify-content: space-between;
+    &:hover {
+      background-color: #grey;
+    }
+  }
+  .collapsible-body {
+
+  }
+  // Footer collapse
+  .collapsible-footer {
+    padding: 10px 30px;
+    span {
+      margin-left: 50px;
+    }
+  }
+
+}
+
+// Button copied
+/* Just to play with animations */
+.copiedtext {
+  position: absolute;
+  left: 0; top: 0; right: 0;
+  text-align: center;
+  opacity: 0;
+  transform: translateY(-1em);
+  color: #000;
+  transition: all .500s;
+}
+.copied .copiedtext {
+  opacity: 1;
+  transform: translateY(-2em);
+}
+
+.centerApp {
+  position: relative;
+  top: 50vh;
+  transform: translatey(-50%);
+}
+
+input[type="range"] {
+  border: none;
+}
