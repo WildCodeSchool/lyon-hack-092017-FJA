@@ -15,6 +15,7 @@ class Request
 
     public $arguments;
     
+    /* INSERT YOUR TOKEN IN THE CONST */
     const TOKEN = "3c1cd93b123d714fc732e9ad11999cd2c3ac815d";
 
 
